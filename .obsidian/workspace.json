@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "deec461e605f5bd6",
+        "id": "09f283f94cff4214",
         "type": "tabs",
         "children": [
           {
-            "id": "3159cc9e7473a87e",
+            "id": "723956b791ffc965",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏拆解/鬼武者剑之道/简单但高效的战斗系统设计.md",
+                "file": "游戏拆解/二游/二游战斗.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "简单但高效的战斗系统设计"
+              "title": "二游战斗"
             }
           }
         ]
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.7727661132812
+    "width": 541.9849243164062
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +196,23 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "745a13d2477fde77",
+  "active": "723956b791ffc965",
   "lastOpenFiles": [
+    "游戏拆解/二游/二游模式.md",
+    "游戏拆解/二游/二游战斗.md",
+    "流行文化杂谈/无敌少侠杂谈.md",
+    "流行文化杂谈/为什么会有这个部分.md",
+    "流行文化杂谈/互联网生存指南.md",
+    "零散的游戏设计感悟/动作游戏Boss设计.md",
+    "copilot/copilot-conversations/agent__简单阅读一下这个知识库，给我一些使用tag或引用的建@20261021_203453.md",
+    "游戏拆解/怪物猎人/富有策略感的动作玩法.md",
+    "游戏拆解/怪物猎人/原初形态爵银龙设计简析.md",
+    "游戏拆解/鬼武者剑之道/简单但高效的战斗系统设计.md",
+    "零散的游戏设计感悟/动作共斗游戏的敌人设计.md",
+    "零散的游戏设计感悟/机制影响认知.md",
+    "零散的游戏设计感悟/展示而非讲述.md",
     "_status.txt",
     "_gi_test.md",
-    "copilot/copilot-conversations/agent__简单阅读一下这个知识库，给我一些使用tag或引用的建@20261021_203453.md",
     "copilot/copilot-conversations",
     "copilot/skills/miyo-parse/SKILL.md",
     "copilot/skills/miyo-parse/miyo-parse.cmd",
@@ -215,7 +227,6 @@
     "copilot/skills/json-canvas/references",
     "copilot/skills/json-canvas",
     "copilot/skills/obsidian-bases/SKILL.md",
-    "copilot/skills/obsidian-bases/LICENSE",
     "copilot/skills/obsidian-bases/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
     "copilot/skills/obsidian-markdown/SKILL.md",
@@ -223,17 +234,6 @@
     "copilot/skills/obsidian-markdown/references/EMBEDS.md",
     "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
     "copilot/skills/openartifacts-publish/SKILL.md",
-    "copilot/skills/openartifacts-publish/themes/research-memo.md",
-    "copilot/skills/copilot-fetch-x/SKILL.md",
-    "copilot/skills/copilot-youtube-transcript/SKILL.md",
-    "零散的游戏设计感悟/机制影响认知.md",
-    "零散的游戏设计感悟/展示而非讲述.md",
-    "零散的游戏设计感悟/动作游戏Boss设计.md",
-    "零散的游戏设计感悟/动作共斗游戏的敌人设计.md",
-    "流行文化杂谈/互联网生存指南.md",
-    "流行文化杂谈/为什么会有这个部分.md",
-    "流行文化杂谈/无敌少侠杂谈.md",
-    "游戏拆解/二游/二游模式.md",
     "未命名.canvas"
   ]
 }
