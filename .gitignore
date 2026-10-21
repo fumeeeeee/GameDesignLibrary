@@ -1,0 +1,24 @@
+# --- 系统 / 编辑器 ---
+.git/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Obsidian 本地工作区（每台机器不同，且频繁变动）---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+# 插件设置里可能包含 API Key
+.obsidian/plugins/*/data.json
+
+# --- Copilot for Obsidian ---
+# 插件本体是构建产物，不需要进版本库
+.obsidian/plugins/copilot/main.js
+.obsidian/plugins/copilot/styles.css
+# 会话记录，以及可自动重新生成的 Skills
+copilot/copilot-conversations/
+copilot/skills/
+
+# --- 其它 AI 工具缓存 ---
+.copilot/
+.opencode/

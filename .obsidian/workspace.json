@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "零散的游戏设计感悟/动作共斗游戏的敌人设计.md",
+                "file": "游戏拆解/鬼武者剑之道/简单但高效的战斗系统设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "动作共斗游戏的敌人设计"
+              "title": "简单但高效的战斗系统设计"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#JRPG",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,6 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "游戏拆解/鬼武者剑之道/简单但高效的战斗系统设计.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -165,13 +166,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "745a13d2477fde77",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-agent-chat-view",
+              "state": {},
+              "icon": "copilot-agent",
+              "title": "Copilot Agent"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 553.7727661132812
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,47 +192,48 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "3159cc9e7473a87e",
+  "active": "745a13d2477fde77",
   "lastOpenFiles": [
-    "零散的游戏设计感悟/动作游戏Boss设计.md",
+    "_status.txt",
+    "_gi_test.md",
+    "copilot/copilot-conversations/agent__简单阅读一下这个知识库，给我一些使用tag或引用的建@20261021_203453.md",
+    "copilot/copilot-conversations",
+    "copilot/skills/miyo-parse/SKILL.md",
+    "copilot/skills/miyo-parse/miyo-parse.cmd",
+    "copilot/skills/miyo-parse/miyo-parse.sh",
+    "copilot/skills/miyo-parse",
+    "copilot/skills/obsidian-cli/SKILL.md",
+    "copilot/skills/obsidian-cli/LICENSE",
+    "copilot/skills/obsidian-cli",
+    "copilot/skills/json-canvas/SKILL.md",
+    "copilot/skills/json-canvas/LICENSE",
+    "copilot/skills/json-canvas/references/EXAMPLES.md",
+    "copilot/skills/json-canvas/references",
+    "copilot/skills/json-canvas",
+    "copilot/skills/obsidian-bases/SKILL.md",
+    "copilot/skills/obsidian-bases/LICENSE",
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "copilot/skills/obsidian-markdown/SKILL.md",
+    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
+    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
+    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
+    "copilot/skills/openartifacts-publish/SKILL.md",
+    "copilot/skills/openartifacts-publish/themes/research-memo.md",
+    "copilot/skills/copilot-fetch-x/SKILL.md",
+    "copilot/skills/copilot-youtube-transcript/SKILL.md",
     "零散的游戏设计感悟/机制影响认知.md",
+    "零散的游戏设计感悟/展示而非讲述.md",
+    "零散的游戏设计感悟/动作游戏Boss设计.md",
+    "零散的游戏设计感悟/动作共斗游戏的敌人设计.md",
     "流行文化杂谈/互联网生存指南.md",
     "流行文化杂谈/为什么会有这个部分.md",
     "流行文化杂谈/无敌少侠杂谈.md",
     "游戏拆解/二游/二游模式.md",
-    "游戏拆解/二游/二游战斗.md",
-    "游戏拆解/学园偶像大师/精彩人设的内与外.md",
-    "游戏拆解/炼金工房A25/炼金系统/素材.md",
-    "游戏拆解/炼金工房A25/炼金系统/炼金.md",
-    "游戏拆解/炼金工房A25/炼金系统/道具.md",
-    "游戏拆解/街头霸王6/街霸6做对了什么.md",
-    "游戏拆解/街头霸王6/格斗游戏的博弈设计.md",
-    "游戏拆解/黑夜君临/A大为什么是粪怪.md",
-    "游戏拆解/鬼武者剑之道/简单但高效的战斗系统设计.md",
-    "游戏拆解/怪物猎人/原初形态爵银龙设计简析.md",
-    "游戏拆解/怪物猎人/富有策略感的动作玩法.md",
-    "零散的游戏设计感悟/动作共斗游戏的敌人设计.md",
-    "未命名.base",
-    "2026-09-18.md",
-    "游戏设计.md",
-    "README.md",
-    "游戏拆解/鬼武者剑之道",
-    "Log.md",
-    "游戏拆解/二游",
-    "游戏拆解/未命名.md",
-    "未命名.canvas",
-    "自我介绍.md",
-    "游戏拆解/黑夜君临",
-    "游戏拆解/炼金工房A25/逐步展开的系统设计.md",
-    "零散的游戏设计感悟",
-    "游戏拆解/学园偶像大师/引用.md",
-    "游戏拆解/街头霸王6",
-    "游戏拆解/怪物猎人",
-    "游戏拆解/学园偶像大师",
-    "游戏拆解",
-    "流行文化杂谈"
+    "未命名.canvas"
   ]
 }

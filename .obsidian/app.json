@@ -1,4 +1,10 @@
 {
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "copilot/copilot-conversations/",
+    "copilot/skills/",
+    ".opencode/",
+    ".copilot/"
+  ]
 }
